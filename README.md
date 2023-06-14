@@ -24,5 +24,11 @@ The analysis has been carried to find out the most important factor that affect 
 
 #### Report
 
+---
+<img src="https://github.com/RamyaRamaiah/Employee-Attrition-Analysis/blob/main/DATASET/Final%20Report.jpg" width="550" class="center">
 
+#### Interactive Dashboard
+
+---
+<img src="https://github.com/RamyaRamaiah/Employee-Attrition-Analysis/blob/main/DATASET/Interactive%20Dashboard.gif" width="600" class="center">
 
