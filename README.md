@@ -14,3 +14,15 @@ The analysis has been carried to find out the most important factor that affect 
 5. Created measure for needs and used them for creating visuals in PowerBI.
 6. Got the final report reviewed by the mentor in review meeting.
 
+## Conclusion
+
+* Attrition Rate for all Departments is High 50.21%
+* Monthly New Hire Vs Attrition Rate Is Linearly Increasing.
+* Attrition rate does not vary much between different Departments, Job Role and Education Field.
+
+## Final Result
+
+#### Report
+
+
+
